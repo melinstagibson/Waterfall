@@ -70,7 +70,7 @@ index 20e14557..7fe5bbea 100644
      public String getName()
      {
 -        return "BungeeCord";
-+        return "Waterfall";
++        return "MelVille";
      }
  
      @Override
